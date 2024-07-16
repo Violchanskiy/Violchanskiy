@@ -3,8 +3,8 @@
 
 ## Мои проекты:
 1. [Telegram-бот, который отправляет астрономическую картину дня от NASA](https://github.com/Violchanskiy/NasaBot)
-2. [Инструмент для анализа данных и оптимизации бизнес-процессов в розничных сетях.](https://github.com/Violchanskiy/RetailAnalytics)
-3. [Многопользовательский чат.](https://github.com/Violchanskiy/MultiUserChat)
+2. [Многопользовательский чат.](https://github.com/Violchanskiy/MultiUserChat)
+3. [Инструмент для анализа данных и оптимизации бизнес-процессов в розничных сетях.](https://github.com/Violchanskiy/RetailAnalytics)
 4. [Реализация библиотеки классов контейнеров на языке C++](https://github.com/Violchanskiy/Containers)
 
 ### Социальные сети:
