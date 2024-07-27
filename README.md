@@ -10,7 +10,6 @@
 3. [Инструмент для анализа данных и оптимизации бизнес-процессов в розничных сетях.](https://github.com/Violchanskiy/RetailAnalytics)
 4. [Реализация библиотеки классов контейнеров на языке C++](https://github.com/Violchanskiy/Containers)
 
-### Социальные сети:
 
 <div align="left">
   <a href="https://t.me/violchanskiy" target="_blank" rel="noreferrer">
