@@ -1,7 +1,6 @@
 
-<div id="header" align="Center">
+<div id="header" align="Left">
     <h1>Hi there, I'm  Viola </h1>
-    <h3>JAVA DEVELOPER</h3>
 </div>
 
 
