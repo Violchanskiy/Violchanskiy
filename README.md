@@ -5,10 +5,11 @@
 
 
 ## Мои проекты:
-1. [Telegram-бот, который отправляет астрономическую картину дня от NASA](https://github.com/Violchanskiy/NasaBot)
-2. [Многопользовательский чат.](https://github.com/Violchanskiy/MultiUserChat)
-3. [Инструмент для анализа данных и оптимизации бизнес-процессов в розничных сетях.](https://github.com/Violchanskiy/RetailAnalytics)
-4. [Реализация библиотеки классов контейнеров на языке C++](https://github.com/Violchanskiy/Containers)
+1. [Приложение, предназначенное для обработки аутентификации и регистрации пользователей с использованием JWT]((https://github.com/Violchanskiy/AuthenticationService))
+2. [Telegram-бот, который отправляет астрономическую картину дня от NASA](https://github.com/Violchanskiy/NasaBot)
+3. [Многопользовательский чат.](https://github.com/Violchanskiy/MultiUserChat)
+4. [Инструмент для анализа данных и оптимизации бизнес-процессов в розничных сетях.](https://github.com/Violchanskiy/RetailAnalytics)
+5. [Реализация библиотеки классов контейнеров на языке C++](https://github.com/Violchanskiy/Containers)
 
 
 <div align="left">
